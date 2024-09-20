@@ -16,8 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, thanks for passing by ! 👋 My name is Thomas and I'm 22. This site is made for profesionnal purpose and archiving a lot of things such as : my coding projects, things I learn, cool websites and ressources. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm passionate about mathematics and computer science. I'm actually studying in an applied math master's in Lyon, France specialized in Data Science. I don't feel my coding skills are strong enough and I want to improve them a lot. Creating this website was a challenge in itself ! I want to archive all my work here to display it and maybe someone will find that interesting. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I also love a lot of other things : paleontology, history and the list goes on. So maybe one day there will be sections of notes about other subjects than just maths and CS. 

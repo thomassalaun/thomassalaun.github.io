@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hi ! Thanks for passing by. 👋 \ I'm currently searching an internship in Data Science in Marseille, Aix-en-Provence, feel free to reach me. :)
+subtitle: Hi ! Thanks for passing by. 👋 \\ I'm currently searching an internship in Data Science in Marseille, Aix-en-Provence, feel free to reach me. :)
 
 profile:
   align: right

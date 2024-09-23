@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Hi ! Thanks for passing by. 👋 \\ I'm currently searching an internship in Data Science in Marseille, Aix-en-Provence, feel free to reach me. :)
-
+subtitle: Hi ! Thanks for passing by. 👋 
 profile:
   align: right
   image: me_pic.jpg
@@ -15,6 +14,8 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+# **I'm currently searching an internship in Data Science in Marseille, Aix-en-Provence, feel free to reach me. :)**
 
 My name is Thomas and I'm 22. This site is made for profesionnal purpose and archiving a lot of things such as : my coding projects, things I learn, cool websites and ressources. 
 

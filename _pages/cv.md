@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: The JSON resume below have a lot of informations. For more concise informations, see the PDF.
 toc:
   sidebar: left
 ---

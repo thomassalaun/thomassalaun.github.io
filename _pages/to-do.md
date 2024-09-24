@@ -28,8 +28,8 @@ toc:
   - [ ] What is it ? page : explain why and the other page
   - [ ] Problems : link to page problems
 
-- [ ] Projects page
-  - [ ] Use the al-folio one as a reference
+-  [ ] Projects page
+  - [x] Use the al-folio one as a reference --> 23/09/2024
   - [ ] Explain the Canada internship
   - [ ] List of the future ones/ideas
 
@@ -39,4 +39,8 @@ toc:
 
 - [ ] Make a clear database of the solved problems via categories system like in this [website](https://youkn0wwho.academy/topic-list). 
 
+
+- [ ] Enable comments on certains articles like problems.
+
 ## Done 
+/

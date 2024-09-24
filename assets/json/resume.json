@@ -36,24 +36,6 @@
       "endDate": "2024-08",
       "summary": "Mitacs Globalink Research Intern. Studied how to analyze urban heat islands in Moncton (New-Brunswick, Canada) using CMIP6 climate models.",
       "highlights": ["Applied mathematics", "Climate"]
-    },
-    {
-      "name": "Mission Handicap Lyon 1",
-      "position": "University disability program officer",
-      "url": "",
-      "startDate": "2024-09",
-      "endDate": "2025-04",
-      "summary": "Collaborated with a multidisciplinary team to coordinate specific accommodations for students with disabilities, working closely with internal services and external partners.",
-      "highlights": ["Tutor"]
-    },
-    {
-      "name": "Parkours",
-      "position": "Study tutor",
-      "url": "https://www.parkours.fr/",
-      "startDate": "2023-10",
-      "endDate": "2025-04",
-      "summary": "Helped highschool students to overcome their difficulties.",
-      "highlights": ["Tutor"]
     }
   ],
   "education": [
@@ -62,6 +44,7 @@
       "location": "Lyon, France",
       "url": "https://www.univ-lyon1.fr/",
       "area": "Applied Mathematics / Data Science",
+      "description": "Test",
       "studyType": "Master",
       "startDate": "2023-09-01",
       "endDate": "2025-10-01"
@@ -94,6 +77,26 @@
       "endDate": "2021-07-01"
     }
   ],
+  "other-work": [
+    {
+      "name": "Mission Handicap Lyon 1",
+      "position": "University disability program officer",
+      "url": "",
+      "startDate": "2024-09",
+      "endDate": "2025-04",
+      "summary": "Collaborated with a multidisciplinary team to coordinate specific accommodations for students with disabilities, working closely with internal services and external partners.",
+      "highlights": ["Tutor"]
+    },
+    {
+      "name": "Parkours",
+      "position": "Study tutor",
+      "url": "https://www.parkours.fr/",
+      "startDate": "2023-10",
+      "endDate": "2025-04",
+      "summary": "Helped highschool students to overcome their difficulties.",
+      "highlights": ["Tutor"]
+    }
+  ],
   "awards": [
     {
       "title": "Regional Olympiads of Mathematics in Squad",
@@ -114,23 +117,38 @@
         "Convex Optimization",
         "Probabilitics Models"
       ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "keywords": [
+        "Python",
+        "R",
+        "C / C++",
+        "Matlab",
+        "SQL",
+        "SAAS",
+        "Git",
+        "HTML",
+        "CSS"
+      ]
     }
   ],
   "languages": [
     {
       "language": "French",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "flags/france.png"
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "flags/uk.png"
     },
     {
       "language": "Spanish",
       "fluency": "Basics",
-      "icon": ""
+      "icon": "flags/spain.png"
     }
   ],
   "interests": [

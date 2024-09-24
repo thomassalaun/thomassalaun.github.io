@@ -36,3 +36,5 @@ Is a way to see what I did in my journey.
     - [GitHub Pages](https://github.com/thomassalaun/skills-github-pages) : learned about how to create a site.
 
   - Found about this [topic list](https://youkn0wwho.academy/topic-list) which is amazing and will help me a lot through my journey.
+
+  - Installed VS Code to modify the website with GitHub desktop.
